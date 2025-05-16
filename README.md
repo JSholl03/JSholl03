@@ -25,8 +25,3 @@ I'm a results-driven **Business Operations Manager** with a passion for leveragi
 - 📧 **Email**: jonsholl@gmail.com
 - 📱 **Phone**: +65 9178 9571
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonasholl)
-
----
-
-![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonsholl&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonsholl&layout=compact)
